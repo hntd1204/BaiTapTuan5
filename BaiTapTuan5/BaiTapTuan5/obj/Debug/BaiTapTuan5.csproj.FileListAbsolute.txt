@@ -1,0 +1,15 @@
+C:\Users\hakha\source\repos\BaiTapTuan5\BaiTapTuan5\obj\Debug\BaiTapTuan5.csproj.AssemblyReference.cache
+C:\Users\hakha\source\repos\BaiTapTuan5\BaiTapTuan5\obj\Debug\BaiTapTuan5.Form1.resources
+C:\Users\hakha\source\repos\BaiTapTuan5\BaiTapTuan5\obj\Debug\BaiTapTuan5.Properties.Resources.resources
+C:\Users\hakha\source\repos\BaiTapTuan5\BaiTapTuan5\obj\Debug\BaiTapTuan5.csproj.GenerateResource.cache
+C:\Users\hakha\source\repos\BaiTapTuan5\BaiTapTuan5\obj\Debug\BaiTapTuan5.csproj.CoreCompileInputs.cache
+C:\Users\hakha\source\repos\BaiTapTuan5\BaiTapTuan5\bin\Debug\BaiTapTuan5.exe.config
+C:\Users\hakha\source\repos\BaiTapTuan5\BaiTapTuan5\bin\Debug\BaiTapTuan5.exe
+C:\Users\hakha\source\repos\BaiTapTuan5\BaiTapTuan5\bin\Debug\BaiTapTuan5.pdb
+C:\Users\hakha\source\repos\BaiTapTuan5\BaiTapTuan5\bin\Debug\EntityFramework.dll
+C:\Users\hakha\source\repos\BaiTapTuan5\BaiTapTuan5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hakha\source\repos\BaiTapTuan5\BaiTapTuan5\bin\Debug\EntityFramework.xml
+C:\Users\hakha\source\repos\BaiTapTuan5\BaiTapTuan5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hakha\source\repos\BaiTapTuan5\BaiTapTuan5\obj\Debug\BaiTapTu.CBC88328.Up2Date
+C:\Users\hakha\source\repos\BaiTapTuan5\BaiTapTuan5\obj\Debug\BaiTapTuan5.exe
+C:\Users\hakha\source\repos\BaiTapTuan5\BaiTapTuan5\obj\Debug\BaiTapTuan5.pdb
